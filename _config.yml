@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                    https://www.christianhaller.me
+url:                    https://yinuowang-cs.github.io/
 #url:                   https://christianhallerx.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
@@ -24,33 +24,27 @@ baseurl:               ''
 lang:     en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:    Christian Haller Ph.D.
+title:    Yinuo Wang
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-          Christian Haller Ph.D. 
+          Yinuo Wang 
 
 # A shorter description for the sidebar.
 tagline:               >
-          AI/ML Scientist --- Developer
+          Test Engineer
           Published Author
 
 # A list of keywords for your blog
 keywords: [
-          'AI',
-          'Geoscience',
-          'Geophysics',
-          'Geochemistry',
+          'Data Structure',
           'Blog',
-          'Data Science',
-          'Data Analytics',
           'Coding',
           'Programming',
           'Machine Learning',
           'Python',
-          'Tensorflow',
-          'Developer',
+          'Test',
           'Tutorials',
           'Tips'
           ]
@@ -63,8 +57,8 @@ logo:                /assets/icons/icon-512x512.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:              Christian Haller
-  email:             mail@christianhaller.me
+  name:              Yinuo Wang
+  email:             15701577807@163.com
   picture:           /assets/icons/icon-512x512.png
   social:
     linkedin:        christian-haller
