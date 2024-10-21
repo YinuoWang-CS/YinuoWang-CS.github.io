@@ -1,17 +1,15 @@
 ---
 layout:         welcome
-title:          Christian Haller, Ph.D.
+title:          Yinuo Wang
 cover:          true
 ---
 
-AI/ML Scientist - Developer - Published Author
+Test Engineer
 {:.lead}
 
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
 
-Christian holds a Ph.D. in `Marine Science`, an M.Sc. in `Geoscience`, and has a strong computer programming and data analytics background.
-He has a proficiency in one of the hottest subjects of our time: `Data Science`, and developing `Machine Learning` models.
+Wang Yinuo holds a bachelor’s degree in Teaching Chinese to Speakers of Other Languages in 2019 from Beijing Language and Culture University. 
+She has a strong interest in Computer Science and began a journey of self-study in this field.
 [See more...](/about/)
 
 ## Podcast
