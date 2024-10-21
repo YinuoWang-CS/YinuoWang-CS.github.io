@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  About Christian Haller
+title:  About Yinuo Wang
 image_sliders:
   - about_cert_slider
 description: >
@@ -20,6 +20,11 @@ Barrk Sandstone at Kakadu National Park, Northern Territory, Australia / Snowdon
 
 ## Bio
 
+Wang Yinuo holds a bachelor's degree in `Teaching Chinese to Speakers of Other Languages` in 2019 from Beijing Language and Culture University.
+She has a strong interest in Computer Science and began a journey of self-study in this field. 
+
+
+
 Christian holds a Ph.D. in `Marine Science`, an M.Sc. in `Geoscience`, and has a strong computer programming background.
 He has a proficiency in one of the hottest subjects of our time: `Data Science`, and developing `Machine Learning` models at scale (think Big Data).
 These models are useful to analyze data to simplify class recognition, automate interpretation, and discern cause-and-effect correlation.
@@ -33,9 +38,7 @@ In his downtime he and his partner pursue their passion for backpacking such as 
 
 ## Education
 
-* Ph.D. in Marine Science (ML in Geoscience), University of South Florida, U.S.A. 2018. <i class="icomoon icon-file-pdf">&nbsp;<a href="https://scholarcommons.usf.edu/etd/7627/" target="_blank">Download</a>
-* M.Sc. in Geosciences, Rheinische Friedrich-Wilhelms-Universität, Germany 2012.
-* B.Sc. in Geosciences, Albert-Ludwigs-Universität Freiburg, Germany 2009.
+* Bachelor of Arts, Teaching Chinese to Speakers of Other Languages, Beijing Language and Culture University, China 2019.
 
 
 ## Professional Certifications
