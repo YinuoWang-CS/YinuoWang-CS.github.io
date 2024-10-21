@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                    https://www.christianhaller.me
+url:                    https://yinuowang-cs.github.io/
 #url:                   https://christianhallerx.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
@@ -24,33 +24,26 @@ baseurl:               ''
 lang:     en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:    Christian Haller Ph.D.
+title:    Yinuo Wang
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-          Christian Haller Ph.D. 
+          Yinuo Wang
 
 # A shorter description for the sidebar.
 tagline:               >
-          AI/ML Scientist --- Developer
-          Published Author
-
+          Test Engineer
+          
 # A list of keywords for your blog
 keywords: [
-          'AI',
-          'Geoscience',
-          'Geophysics',
-          'Geochemistry',
+          'Data Structure',
           'Blog',
-          'Data Science',
-          'Data Analytics',
           'Coding',
           'Programming',
           'Machine Learning',
           'Python',
-          'Tensorflow',
-          'Developer',
+          'Test',
           'Tutorials',
           'Tips'
           ]
@@ -63,14 +56,14 @@ logo:                /assets/icons/icon-512x512.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:              Christian Haller
-  email:             mail@christianhaller.me
+  name:              Yinuo Wang
+  email:             15701577807@163.com
   picture:           /assets/icons/icon-512x512.png
   social:
-    linkedin:        christian-haller
-    github:          ChristianHallerX
-    researchgate:    Christian_Haller4
-    email:           mail@christianhaller.me
+    linkedin:        -
+    github:          YinuoWang-CS
+    researchgate:    -
+    email:           15701577807@163.com
     cv:              https://docs.google.com/document/d/1CDO0WQcwpnmia_fosRdELAl8MzRlk_RM6tQMCr5ra50/edit?usp=sharing
 
 # Add links to the sidebar.
@@ -79,8 +72,8 @@ menu:
     url:               /projectblog/
   - title:             About
     url:               /about/
-  - title:             Publications
-    url:               /publications/
+#  - title:             Publications
+#    url:               /publications/
   - title:             Academic Interests
     url:               /academic/
   - title:             Photography
