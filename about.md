@@ -41,18 +41,26 @@ In his downtime he and his partner pursue their passion for backpacking such as 
 * Bachelor of Arts, Teaching Chinese to Speakers of Other Languages, Beijing Language and Culture University, China 2019.
 
 
-## Professional Certifications
+## Related MOOCs I took
 
-| Issuer                       | Title                                            | Code            | Date      | Verify        |
-|------------------------------|--------------------------------------------------|-----------------|-----------|---------------|
-| Scaled Agile Framework       | Certified SAFe 6 Practitioner                    | -               | Aug 2022  | <a href="https://www.credly.com/badges/728c7c6c-1d90-4c9a-8205-dd2f90eefd07/public_url" target="_blank">link</a> |
-| Linux Professional Institute | Linux Essentials Certificate                     | [010-160]       | Dec 2020  | <a href="https://lpi.org/v/LPI000469105/5vc355v5f2" target="_blank">link</a> |
-| Google                       | TensorFlow 2.X Developer Certificate             | -               | Oct 2020  | <a href="https://www.credential.net/6ad51867-2c56-4631-97bb-3ccc76f1a34f" target="_blank">link</a> |
-| Amazon Web Services          | AWS Certified Machine Learning – Specialty       | [MLS-C01]       | Oct 2020  | <a href="https://www.youracclaim.com/badges/6f202410-e310-4e03-a554-d52af5c294c3/public_url" target="_blank">link</a> |
-| Amazon Web Services          | AWS Solutions Architect – Associate              | [SAA-C02]       | Aug 2020  | <a href="https://www.youracclaim.com/badges/2a6c62c1-d6f6-4873-a0fb-1ae773029869/public_url" target="_blank">link</a> |
-| Amazon Web Services          | AWS Certified Cloud Practitioner                 | [CLF-C01]       | Jul 2020  | <a href="https://www.youracclaim.com/badges/510a55f6-76c3-4d43-bcc4-2aedac93c856/public_url" target="_blank">link</a> |
-| Python Institute             | PCAP – Certified Associate in Python Programming | [PCAP-NP-31-02] | Jun 2020  | <a href="https://www.youracclaim.com/badges/a9cac248-91a2-443b-947c-09976e4cb097/public_url" target="_blank">link</a> |
-| IBM                          | IBM Data Science Professional Certificate        | -               | Jul 2019  | <a href="https://www.youracclaim.com/badges/5e6ddd35-e1fd-4a9d-9225-1f80b21410c3/public_url" target="_blank">link</a> |
+### Programming:
+- Introduction to Computer Science and Programming Using Python, edX, MIT 6.00.1.
+- Introduction to Computational Thinking and Data Science, edX, MIT 6.00.2.
+- CS 61A: Structure and Interpretation of Computer Programs, UC Berkeley.
+- From Nand to Tetris: building a Mordern Computer From First Princeples, Hebrew University.
+- Computational Structures, 6.004, MIT.
+- CS 61B: Data Structures, UC Berkeley.
+- Algorithms, Princeton University.
+- CS106B: Programming Abstruction, Stanford University.
+- CS144: Introduction to Computer Networking, Stanford University.
+
+### Machine Learning:
+- Machine Learning, Coursera, Stanford University.
+- Machine Learning, Hung-yi Lee.
+
+### Math and Stats:
+- Linear Algebra, Hung-yi Lee, National Taiwan University.
+- Probability - The Science of Uncertainty and Data, edX, MIT 6.431x.
 
 <br>
 {% include image-gallery.html folder="/assets/img/about/prof_certs/" %}
