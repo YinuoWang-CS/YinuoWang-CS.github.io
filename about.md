@@ -24,16 +24,8 @@ Wang Yinuo holds a bachelor's degree in `Teaching Chinese to Speakers of Other L
 She has a strong interest in Computer Science and began a journey of self-study in this field. 
 
 
-
-Christian holds a Ph.D. in `Marine Science`, an M.Sc. in `Geoscience`, and has a strong computer programming background.
-He has a proficiency in one of the hottest subjects of our time: `Data Science`, and developing `Machine Learning` models at scale (think Big Data).
-These models are useful to analyze data to simplify class recognition, automate interpretation, and discern cause-and-effect correlation.
-Furthermore, Christian creates, runs, and improves complex prediction systems in order to support organizations whose research and success metrics depend on accurate prediction.
-During his time in academia, Christian has sailed on offshore expeditions (scientific drilling) and published various technical papers.
-
-Outside his technical roles, Christian is a keen photographer and mountain biker - with a broad interest in emerging tech, economics, and management.
-His favorite book is "The Martian", which he read over a dozen times.
-In his downtime he and his partner pursue their passion for backpacking such as camping in the Australian Outback, the Black Forest, or the Northeast Kingdom.
+Outside her technical roles, Yinuo is a keen photographer and mountain biker - with a broad interest in emerging tech, economics, and management.
+Her favorite book is "The Martian", which she read over a dozen times.
 
 
 ## Education
@@ -65,6 +57,8 @@ In his downtime he and his partner pursue their passion for backpacking such as 
 <br>
 {% include image-gallery.html folder="/assets/img/about/prof_certs/" %}
 
+
+<!--
 ## Other Training
 
 | Issuer                        | Title                                                       | Date      | Verify        |
@@ -82,6 +76,6 @@ In his downtime he and his partner pursue their passion for backpacking such as 
 | IBM                           | Advanced Data Science with IBM                              | Jun 2019  | <a href="https://coursera.org/share/d711920563faf2483c06ce04f1cc4c37" target="_blank">link</a> |
 | Stanford University           | Reservoir Geomechanics                                      | Jun 2019  | <a href="https://github.com/ChristianHallerX/Certificates/blob/master/CHaller%20-%20Stanford%20Reservoir%20Geomechanics.pdf" target="_blank">link</a> |
 | Stanford University           | Unconventional Reservoir Geomechanics                       | Jun 2019  | <a href="https://github.com/ChristianHallerX/Certificates/blob/master/CHaller%20-%20Stanford%20Unconventional%20Reservoir%20Geomechanics.pdf" target="_blank">link</a> |
-
+-->
 
 {% include image-gallery.html folder="/assets/img/about/other_certs/" %}
