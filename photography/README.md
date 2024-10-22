@@ -9,23 +9,16 @@ galleries1:
   - title: Sea
     image: /assets/img/photography/personal/1-1.jpg
     url: /photography/personal/
-  - title: JOIDES
-    image: /assets/img/photography/covers/JOIDES_cover.jpg
-    url: /photography/JOIDES/
-  - title: Colorful Microfossils
-    image: /assets/img/photography/covers/colorful_microfossils_cover.jpg
-    url: /photography/colorful-microfossils/
+  - title: Carousel
+    image: /assets/img/photography/personal/1-2.jpg
+    url: /photography/personal/
+
 
 galleries2:
-  - title: Wildlife
-    image: /assets/img/photography/covers/wildlife_cover.jpg
-    url: /photography/wildlife/
-  - title: Plants
-    image: /assets/img/photography/covers/plants_cover.jpg
-    url: /photography/plants/
-  - title: Environments
-    image: /assets/img/photography/covers/environments_cover.jpg
-    url: /photography/environments/
+  - title: Graduation Party
+    image: /assets/img/photography/personal/1-4.jpg
+    url: /photography/personal/
+
 
 galleries3:
   - title: Black Forest
