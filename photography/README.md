@@ -6,9 +6,9 @@ description: >
   Pictures captured in my life.
 
 galleries1:
-  - title: Rocks
-    image: /assets/img/photography/covers/rocks_cover.jpg
-    url: /photography/rocks/
+  - title: Sea
+    image: /assets/img/photography/personal/1-1.jpg
+    url: /photography/personal/
   - title: JOIDES
     image: /assets/img/photography/covers/JOIDES_cover.jpg
     url: /photography/JOIDES/
