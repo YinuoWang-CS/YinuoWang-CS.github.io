@@ -6,9 +6,6 @@ description: >
   Pictures captured in my life.
 
 galleries1:
-  - title: Sea
-    image: /assets/img/photography/personal/1-1.jpg
-    url: /photography/personal/
   - title: Carousel
     image: /assets/img/photography/personal/1-2.jpg
     url: /photography/personal/
@@ -25,20 +22,18 @@ galleries2:
 
 ---
 
-0. this unordered seed list will be replaced by toc as unordered list
+
 {:toc}
 
-<img src="/assets/img/photography/Snapping.jpg" alt="Christian Haller photography">
+<img src="/assets/img/photography/personal/1-1.jpg" alt="Yinuo Wang photography">
 
-Boyd Hill Nature Park, St. Petersburg, Florida
+Sea
 {:.figcaption style="text-align: left;"}
 
-### <i class="icomoon icon-aperture"></i> Geology
-
+### <i class="icomoon icon-aperture"></i> My Life
 {% if page.galleries1 %}{% include image-gallery-index1.html %}{% endif %}
 
-### <i class="icomoon icon-aperture"></i> Florida and More
-
+### <i class="icomoon icon-aperture"></i> Graduation
 {% if page.galleries2 %}{% include image-gallery-index2.html %}{% endif %}
 
 
