@@ -8,13 +8,13 @@ description: >
 ---
 
 
-0. this unordered seed list will be replaced by toc as unordered list
+
 {:toc}
 
 
 <br>
-<img src="/assets/img/about/about.jpg" alt="Christian Haller about"><br>
-Barrk Sandstone at Kakadu National Park, Northern Territory, Australia / Snowdon, Wales, UK
+<img src="/assets/img/about/about.jpg" alt="Yinuo Wang about"><br>
+Snow gazing with friends, 2024 Spring Festival, Jilin, China.
 {:.figcaption style="text-align: left;"}
 
 
@@ -78,4 +78,6 @@ Her favorite book is "The Martian", which she read over a dozen times.
 | Stanford University           | Unconventional Reservoir Geomechanics                       | Jun 2019  | <a href="https://github.com/ChristianHallerX/Certificates/blob/master/CHaller%20-%20Stanford%20Unconventional%20Reservoir%20Geomechanics.pdf" target="_blank">link</a> |
 -->
 
+<!--
 {% include image-gallery.html folder="/assets/img/about/other_certs/" %}
+-->
