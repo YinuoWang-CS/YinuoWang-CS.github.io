@@ -12,6 +12,9 @@ galleries1:
   - title: Carousel
     image: /assets/img/photography/personal/1-2.jpg
     url: /photography/personal/
+  - title: Live
+    image: /assets/img/photography/personal/1-5.jpg
+    url: /photography/personal/
 
 
 galleries2:
@@ -20,10 +23,11 @@ galleries2:
     url: /photography/personal/
 
 
-galleries3:
+<!-- galleries3:
   - title: Black Forest
     image: /assets/img/photography/covers/blackf_cover.jpg
     url: /photography/blackf/
+    -->
 ---
 
 0. this unordered seed list will be replaced by toc as unordered list
@@ -42,6 +46,7 @@ Boyd Hill Nature Park, St. Petersburg, Florida
 
 {% if page.galleries2 %}{% include image-gallery-index2.html %}{% endif %}
 
-### <i class="icomoon icon-aperture"></i> Europe
+<!-- ### <i class="icomoon icon-aperture"></i> Europe
 
 {% if page.galleries3 %}{% include image-gallery-index3.html %}{% endif %}
+-->
