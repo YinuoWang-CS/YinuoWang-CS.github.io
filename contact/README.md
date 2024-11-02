@@ -5,9 +5,9 @@ hide_description: false
 description: >
   Carrier pigeons accepted, too.
 ---
-<img src="/assets/img/contact/contact.jpg" alt="Christian Haller contact">
+<img src="/assets/img/contact/contact.jpg" alt="Yinuo contact">
 
-Gubbio near K/T iridium outcrop, Italy
+Snow gazing with friends, 2024 Spring Festival, Jilin, China
 {:.figcaption style="text-align: left;"}
 
 
