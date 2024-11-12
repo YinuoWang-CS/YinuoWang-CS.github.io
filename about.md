@@ -30,7 +30,7 @@ Her favorite book is "The Martian", which she read over a dozen times.
 
 ## Education
 
-* Bachelor of Arts, Teaching Chinese to Speakers of Other Languages, Beijing Language and Culture University, China 2019.
+* Bachelor of Literature, Teaching Chinese as a Foreign Language, Beijing Language and Culture University, China 2019.
 
 
 ## Related MOOCs I took
