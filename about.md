@@ -20,7 +20,7 @@ Snow gazing with friends, 2024 Spring Festival, Jilin, China.
 
 ## Bio
 
-Wang Yinuo holds a bachelor's degree in `Teaching Chinese to Speakers of Other Languages` in 2019 from Beijing Language and Culture University.
+Wang Yinuo holds a bachelor's degree in `Teaching Chinese as a Foreign Language` in 2019 from Beijing Language and Culture University.
 She has a strong interest in Computer Science and began a journey of self-study in this field. 
 
 
